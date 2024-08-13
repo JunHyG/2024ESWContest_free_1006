@@ -1,1 +1,1 @@
-# Automated Traffic Control System to use various traffic system.
+# Automated Traffic Control System.
