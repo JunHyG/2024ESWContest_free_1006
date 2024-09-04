@@ -1,6 +1,6 @@
 # Automated Traffic Control System.
 
-Open Source by Maryam Boneh, Vehicle Detection (https://github.com/MaryamBoneh/Vehicle-Detection) at Vehicle_Detection.py
+Open Source by Maryam Boneh, Vehicle Detection (https://github.com/MaryamBoneh/Vehicle-Detection) at vehicle_detect.py
 
 
 Automated Traffic Control System for 1-Lined road.
